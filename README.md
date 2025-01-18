@@ -1,1 +1,1 @@
-Fish Disease Detection
+**Fish Disease Detection**
